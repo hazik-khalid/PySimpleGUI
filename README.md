@@ -1,1 +1,1 @@
-# These are the projects i made while i learn PySimpleGui
+# These are the projects i made while i learn PySimpleGUI
